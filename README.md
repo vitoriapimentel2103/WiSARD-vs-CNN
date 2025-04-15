@@ -1,3 +1,5 @@
+Paper original de 1984 usada como inspiração para meu desenvolvimento do wisard: https://www.emerald.com/insight/content/doi/10.1108/eb007637/full/html
+
 🧠 Projeto de Comparação entre WiSARD e CNN no Reconhecimento de Dígitos Manuscritos (MNIST)
 Esse projeto foi desenvolvido por mim, Maria Vitória Pimentel Araújo, como um experimento comparativo entre dois modelos de classificação bem diferentes: uma rede WiSARD (baseada em memória RAM) e uma CNN (rede neural convolucional clássica) para reconhecer dígitos do dataset MNIST.
 
