@@ -1,3 +1,5 @@
+obs: o short paper escrito está no início do início, ainda vou fazer mil e uma alterações/adições de tabelas e alterações de seções!!
+
 Paper original de 1984 usada como inspiração para meu desenvolvimento do wisard: https://www.emerald.com/insight/content/doi/10.1108/eb007637/full/html
 
 🧠 Projeto de Comparação entre WiSARD e CNN no Reconhecimento de Dígitos Manuscritos (MNIST)
